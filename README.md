@@ -1,4 +1,4 @@
-# SQL_Practicse
+# SQL basic, intermediate and advanced concepts for Data Science
 
 A collection for all the concepts related to SQL required for data analysis
 This is based on the content given on site https://datalemur.com/sql-tutorial/intro-to-sql
@@ -23,6 +23,6 @@ Following concepts are covered
 - CTE 
 - Subquery
 - Window function
-- LEad LAg
+- Lead Lag
 - Self Joins
 - String Functions
